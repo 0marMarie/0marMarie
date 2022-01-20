@@ -17,9 +17,11 @@
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>][instagram]
 
 <br />
 <br />
@@ -69,13 +71,13 @@
 ### Back-end Languages and Tools:
 
 <!-- Nodejs, Expressjs, API's -->
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-<img align="left" alt="API" width="40px" src="https://img.icons8.com/ios-glyphs/30/000000/api-settings.png" />
+<img align="left" alt="NPM" width="40px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-<img align="left" alt="Express.js" width="40px" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" />
+<img align="left" alt="API" width="40px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-api-microservices-soft-fill-soft-fill-juicy-fish-2.png"/>
 
-<img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="Deno" width="40px" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/000000/external-deno-a-secure-runtime-for-javascript-and-typescript-logo-fresh-tal-revivo.png"/>
 
 <br>
 <br>
@@ -83,13 +85,9 @@
 ### Databases:
 
 <!-- mySQL, mongodb -->
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="Mongodb" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
-
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDb" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
 
 <br />
 <br />
@@ -99,11 +97,7 @@
 <!-- Tensorflow, Keras, Numpy, Pandas -->
 <img align="left" alt="Tensorflow" width="40px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 
-<img align="left" alt="Keras" width="40px" src="https://www.pngitem.com/pimgs/m/32-324790_keras-python-hd-png-download.png"/>
-
 <img align="left" alt="Numpy" width="40px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
-
-<img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
 
 <br />
 <br />
@@ -117,9 +111,9 @@
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
 
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
 
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
