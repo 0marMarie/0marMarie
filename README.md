@@ -77,7 +77,7 @@
 
 <img align="left" alt="API" width="40px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-api-microservices-soft-fill-soft-fill-juicy-fish-2.png"/>
 
-<img align="left" alt="Deno" width="40px" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/000000/external-deno-a-secure-runtime-for-javascript-and-typescript-logo-fresh-tal-revivo.png"/>
+<img align="left" alt="Deno" width="40px" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-deno-a-secure-runtime-for-javascript-and-typescript-logo-fresh-tal-revivo.png"/>
 
 <br>
 <br>
@@ -113,7 +113,7 @@
 
 <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
 
-<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
+<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
 
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
