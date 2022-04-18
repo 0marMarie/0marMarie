@@ -3,25 +3,23 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/0marMarie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0marMarie&screen_name=0marMarie)
 
-## I'm a Learner, Developer, and Machine Learning Engineer!!
+## I'm a Learner, Full-Stack Developer, and Machine Learning Engineer!!
 
-- 🔭 I just Finished my React nano degree course and Now I am a MERN Stack Developer.
-- 🌱 I’m currently an AI and Machine Learnin Trainee at ITI 
-- 👯 I’m looking to collaborate with other software engineers.
-- 🥅 2022 Goals: Work as a full-time machine learning engineer.
-- ⚡ Fun fact: I love to watch football matches and to solve problems.
+- 💪 Strong experience in building single-page apps using the JavaScript MERN Stack.
+- 🌱 I’m currently an AI and Machine Learnin Trainee at ITI.
+- 🔭 I’m looking forward to collaborate with other software engineers.
+- 🥅 2022 Goals: Work as a full-stack machine learning engineer.
+- 😄 Fun fact: I love watching football matches and playing video games.
 
 <br />
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="45px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
 
-[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
 
 <br />
 <br />
