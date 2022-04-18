@@ -123,15 +123,11 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
 
-<div style="textAlign: center;">
-    <img  
-        src="https://github-readme-streak-stats.herokuapp.com/?user=0marMarie" alt="0marMarie" />
-</div>
-
+<img  align="cenetr"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=0marMarie" alt="0marMarie" 
+/>
 
 
 [twitter]: https://twitter.com/0marMarie
