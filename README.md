@@ -75,7 +75,7 @@
 
 <img align="left" alt="Deno" width="40px" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-deno-a-secure-runtime-for-javascript-and-typescript-logo-fresh-tal-revivo.png"/>
 
-<img align="left" alt="Spring" width="80px" src="https://www.fusionsofttech.co.in/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png"/>
+<img align="left" alt="Spring" width="40px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 
 <br>
 <br>
