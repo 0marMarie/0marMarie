@@ -122,7 +122,7 @@
 <br />
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0marMarie" alt="0marMarie" /></p>
+<p><img style="textAlign: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=0marMarie" alt="0marMarie" /></p>
 
 
 
