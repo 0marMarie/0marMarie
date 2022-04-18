@@ -95,9 +95,9 @@
 
 <img align="left" alt="Numpy" width="40px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
 
-<img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"/>
+<img align="left" alt="Pandas" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"/>
 
-<img align="left" alt="Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/>
+<img align="left" alt="Plotly" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/>
 
 
 <br />
