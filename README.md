@@ -19,8 +19,6 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
 
-[<img align="left" alt="codeSTACKr | Instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
-
 <br />
 <br />
 <br />
@@ -38,7 +36,7 @@
 
 <img align="left" alt="C++" width="40px"  src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
-<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
+<img align="left" alt="Java" width="45px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
 
 
 <br />
@@ -97,6 +95,11 @@
 
 <img align="left" alt="Numpy" width="40px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
 
+<img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"/>
+
+<img align="left" alt="Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png"/>
+
+
 <br />
 <br />
 
@@ -119,26 +122,7 @@
 <br />
 
 
-<!-- ### 📕 Latest Blog Posts -->
 
-<!-- BLOG-POST-LIST:START -->
-
-<!-- - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
-<br />
-<br />
-
-
-<!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/0marMarie
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
-[instagram]: https://www.instagram.com/0marhamed/
+<!-- [instagram]: https://www.instagram.com/0marhamed/ -->
 [linkedin]: https://www.linkedin.com/in/omar-marie-482672169/
