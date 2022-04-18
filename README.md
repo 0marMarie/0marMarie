@@ -97,7 +97,7 @@
 
 <img align="left" alt="Numpy" width="40px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
 
-<img align="left" alt="Pandas" width="100px" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png"/>
+<img align="left" alt="Neural" width="40px" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/000000/external-neural-network-networking-smashingstocks-flat-smashing-stocks.png"/>
 
 
 
