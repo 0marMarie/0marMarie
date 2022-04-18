@@ -75,7 +75,7 @@
 
 <img align="left" alt="Deno" width="40px" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-deno-a-secure-runtime-for-javascript-and-typescript-logo-fresh-tal-revivo.png"/>
 
-<img align="left" alt="Spring" width="80px" src="https://pngset.com/images/web-services-from-spring-framework-java-spring-boot-logo-symbol-trademark-plant-transparent-png-2803683.png"/>
+<img align="left" alt="Spring" width="80px" src="https://www.fusionsofttech.co.in/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png"/>
 
 <br>
 <br>
@@ -97,9 +97,8 @@
 
 <img align="left" alt="Numpy" width="40px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
 
-<img align="left" alt="Pandas" width="80px" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png"/>
+<img align="left" alt="Pandas" width="100px" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png"/>
 
-<img align="left" alt="Plotly" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png"/>
 
 
 <br />
