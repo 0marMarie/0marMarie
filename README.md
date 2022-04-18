@@ -121,11 +121,16 @@
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
-<p style="textAlign: center;">
+
+<div style="textAlign: center;">
     <img  
         src="https://github-readme-streak-stats.herokuapp.com/?user=0marMarie" alt="0marMarie" />
-</p>
+</div>
 
 
 
