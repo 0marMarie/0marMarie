@@ -124,7 +124,7 @@
 
 <p>
     <img 
-        style="display: block; marginLeft: auto; marginRight: auto; width: 50%" 
+        style="display: block; marginRight: auto; width: 50%; marginTop:15px;" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=0marMarie" alt="0marMarie" />
 </p>
 
