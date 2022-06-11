@@ -42,6 +42,32 @@
 <br />
 <br />
 
+### Machine Learning Tools:
+
+<!-- Tensorflow, Keras, Numpy, Pandas -->
+<img align="left" alt="Tensorflow" width="40px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+
+<img align="left" alt="Numpy" width="40px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
+
+<img align="left" alt="Neural" width="40px" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/000000/external-neural-network-networking-smashingstocks-flat-smashing-stocks.png"/>
+
+
+
+<br />
+<br />
+
+### Databases:
+
+<!-- mySQL, mongodb -->
+<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+<img align="left" alt="MongoDb" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+
+<br />
+<br />
+
+
+
 ### Front-end Languages and Tools:
 
 <!-- HTML, CSS, JQuery, BootStrap, Sass, Angular, React, Redux, ReactNative -->
@@ -79,30 +105,6 @@
 
 <br>
 <br>
-
-### Databases:
-
-<!-- mySQL, mongodb -->
-<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-
-<img align="left" alt="MongoDb" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
-
-<br />
-<br />
-
-### Machine Learning Tools:
-
-<!-- Tensorflow, Keras, Numpy, Pandas -->
-<img align="left" alt="Tensorflow" width="40px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-
-<img align="left" alt="Numpy" width="40px" src="https://img.icons8.com/color/48/000000/numpy.png"/>
-
-<img align="left" alt="Neural" width="40px" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/000000/external-neural-network-networking-smashingstocks-flat-smashing-stocks.png"/>
-
-
-
-<br />
-<br />
 
 ### Other Tools:
 
