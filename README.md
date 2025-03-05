@@ -5,10 +5,10 @@
 
 ## I'm a Learner, Developer, and Machine Learning Engineer!!
 
-- 💪 Strong experience in building single-page apps using the JavaScript MERN Stack.
-- 🌱 I’m currently an AI and Machine Learnin Trainee at ITI.
-- 🔭 I’m looking forward to collaborate with other software engineers.
-- 🥅 2022 Goals: Work as a full-stack machine learning engineer.
+- 💪 Strong experience in developing scalable softwares with different machine learning solutions.
+- 🌱 I’m currently a Software Engineer - Machine Learning at Giza Systems.
+- 🔭 I’m looking forward to collaborating with other software engineers.
+- 🥅 2025 Goals: Start my own Business.
 - 😄 Fun fact: I love watching football matches and playing video games.
 
 <br />
