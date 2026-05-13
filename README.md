@@ -8,7 +8,6 @@ Senior ML Engineer with 5+ years of experience building end-to-end ML systems, s
 
 - 🚀 Currently at **Giza Systems** — leading cross-functional AI/ML squads delivering production-grade systems in Cairo & Riyadh.
 - 🤖 Specializes in **MLOps, LLM-powered applications, cloud-native data pipelines, and AI product architecture**.
-- 🏥 Built a dual-agent **Clinical Decision Support System** powered by LLMs, HL7 FHIR, and a custom MCP server with 75+ clinical tools.
 - ☁️ Certified **AWS Solutions Architect**, **Databricks Generative AI Engineer**, and **Databricks ML Professional**.
 - 📄 Co-authored a paper on **AutoEval** at the International Conference of AI in Medicine, Pavia, Italy — *Springer, June 2025*.
 - 😄 Fun fact: I love watching football matches and playing video games.
