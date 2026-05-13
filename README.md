@@ -53,7 +53,7 @@ Senior ML Engineer with 5+ years of experience building end-to-end ML systems, s
 
 <img align="left" alt="AWS SageMaker" width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
-<img align="left" alt="Databricks" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-databricks-unified-analytics-platform-that-accelerates-innovation-logo-color-tal-revivo.png"/>
+<img align="left" alt="Databricks" width="40px" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"/>
 
 <br />
 <br />
@@ -62,7 +62,7 @@ Senior ML Engineer with 5+ years of experience building end-to-end ML systems, s
 
 ### Data Engineering:
 
-<img align="left" alt="Apache Kafka" width="40px" src="https://img.icons8.com/color/48/000000/apache-kafka.png"/>
+<img align="left" alt="Apache Kafka" width="40px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/>
 
 <img align="left" alt="Elasticsearch" width="40px" src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
 
